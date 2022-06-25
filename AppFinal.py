@@ -16,7 +16,7 @@ st.set_page_config(page_title="Music Through the Ages",
 title_image = Image.open("./plots/AppTitle.jpg")
 st.image(title_image)
 
-st.markdown("A Data Geek's take on the question ***'How have music tastes changed through the years?'***")
+st.markdown("Le SMIG DATA permet de mesurer la conformité au Droit d'Accès à l'Information des communes marocaines" )
 st.markdown("This app is meant as a playground to explore the dataset used in the" +
             " [Music through the Ages](https://github.com/tanul-mathur/music-through-the-ages)\
                 project. It contains 50 years of \
